@@ -30,6 +30,7 @@
     font-weight: 700;
     max-width: max-content;
     font-size: 1em;
+    padding-left: 2em;
   }
 
   #secondary-paragraph{
@@ -58,6 +59,7 @@
     font-weight: 700;
     max-width: max-content;
     font-size: 1em;
+    padding-left: 2em;
     text-align: center;
   }
 
