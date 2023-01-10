@@ -32,9 +32,12 @@ body.style.backgroundColor = new Color().makeLightGray();
 const container = document.querySelector('.container-sm');
 container.style.backgroundColor = new Color().makeWhite();
 
-const p = document.querySelector('p');
+
+const p = document.querySelector('#heading-paragraph');
 p.style.color = new Color().makeDarkBlue();
 
+const p2 = document.querySelector("#secondary-paragraph");
+p2.style.color = new Color().makeLightGray;
 /* 
 let body = document.querySelector('body');
 
